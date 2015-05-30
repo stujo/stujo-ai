@@ -21,9 +21,10 @@ Finite vs Infinite number of options
 ###Benign vs Adversarial Environment
 Random Events vs Actively Working against the Agent
 
-|  | Partially Observable | Stochastic | Continuous | Adversarial |
-|--|----------------------|------------|------------|-------------|
-|  |                      |            |            |             |
-|  |                      |            |            |             |
-|  |                      |            |            |             |
+| Partially Observable | Stochastic | Continuous | Adversarial |
+|----------------------|------------|------------|-------------|
+|                      |            |            |             |
+|                      |            |            |             |
+|                      |            |            |             |
+
 
