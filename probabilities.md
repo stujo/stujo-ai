@@ -19,6 +19,8 @@ A ``Child Node`` is influenced by ``Parent Node``
 Bayes Networks Underly:
 * Particle Filters, HMM, MDP, POMDPs, Kalman Filters
 
+* [https://github.com/cayblood/sbn](https://github.com/cayblood/sbn)
+* [http://www.norsys.com/tutorials/netica/secA/tut_A1.htm](http://www.norsys.com/tutorials/netica/secA/tut_A1.htm)
 
 # Probabilities
 ## Coin
@@ -66,9 +68,23 @@ So there are separate paths
 The total probability of the path 
 
 
+# Bayes Rule
+
+```
+P(A|B) =  P(B|A) . P(A)
+         ---------------
+             P(B)
 
 
+Posterior -> P(A|B)
+Likelihood -> P(B|A)
+Prior -> P(A)
+Marginal Likelihood -> P(B)
 
+
+```
+Prior  | A
+-------|---
 
 
 
