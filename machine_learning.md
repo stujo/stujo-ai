@@ -71,5 +71,28 @@ P(x) = count(x) + k
 
 where ``|x|`` is the number of classes of x e.g. ``2`` for boolean values
 
+### Cross Validation
+* Use 10% of the available data to maximize the success for different values of ``k``
+
+### Regressions vs Classification
+* Continous values such as Temperature
+
+### Loss Function
+* Residual difference between estimates and labels
+* Mimizing Quadratic Loss
+```
+min w for SUM{ ( Yi - w1, Xi w0)^2 }
+```
+
+### K Nearest Neighbor KNN
+* search in few feature (3 or 4 max) dimensions
+* kdd trees for efficient 
+
+
+
+
+
+
+
 ## Unsupervised Learning
 
