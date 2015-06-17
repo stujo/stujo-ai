@@ -26,6 +26,7 @@ AI Notes
 * [Bayes Rule](https://en.wikipedia.org/wiki/Bayes%27_rule)
 * [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
 * [Softmax](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/)
+* [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 
 # Challenges
 * [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
