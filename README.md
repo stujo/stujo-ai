@@ -16,8 +16,12 @@ AI Notes
 * Linear Regression
 * Integration
 * Matrix Operatiosn
-* Gaussian Distributions
+
+# Important Topics
+* [Bayes Network](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
+* [Gaussian Distributions](https://en.wikipedia.org/wiki/Normal_distribution)
+* [Bernoulli Distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)
 * [Bayes Rule](https://en.wikipedia.org/wiki/Bayes%27_rule)
 
-# Topics
-* [Bayes Network](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
+# Challenges
+* [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
