@@ -11,6 +11,7 @@ AI Notes
 
 # Useful Tools
 * [Torch](http://torch.ch/docs/getting-started.html)
+* 
 * [nngraph](https://github.com/torch/nngraph)
 * [Ruby Gaussian Distributions](https://github.com/clbustos/distribution)
 
@@ -30,6 +31,7 @@ AI Notes
 * [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
 * [Softmax](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/)
 * [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+* [Convolutional Networks - Convnets](https://www.youtube.com/watch?v=W9_SNGymRwo)
 * [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM Networks](http://deeplearning.net/tutorial/lstm.html)
 * [ReLU / Rectified-Linear and Leaky-ReLU](http://caffe.berkeleyvision.org/tutorial/layers.html)
@@ -37,6 +39,9 @@ AI Notes
 # Challenges
 * [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
 
+# People
+* [Alex Graves](http://www.cs.toronto.edu/~graves/)
+* [Nando de Freitas](http://www.cs.ubc.ca/~nando/)
 
 # Meetups
 * [SF Bayarea Machine Learning](http://www.meetup.com/SF-Bayarea-Machine-Learning)
