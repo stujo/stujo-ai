@@ -23,6 +23,7 @@ AI Notes
 * [Bayes Network](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
 * [Gaussian Distributions](https://en.wikipedia.org/wiki/Normal_distribution)
 * [Bernoulli Distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)
+* [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
 * [Bayes Rule](https://en.wikipedia.org/wiki/Bayes%27_rule)
 * [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
 * [Softmax](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/)
