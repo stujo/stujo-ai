@@ -1,10 +1,12 @@
 AI Notes
 ==========
 
-# Publicly Available Courses
+# Publicly Available Courses / Tutorials
 * [Oxford - Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Stanford - Intro to Artificial Intelligence](https://www.udacity.com/course/viewer#!/c-cs271/)
 * [Stanford Deep Learning](http://ufldl.stanford.edu/tutorial/)
+* [CS229: Machine Learning](http://cs229.stanford.edu/)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 * [Torch](http://code.madbits.com/wiki/doku.php?id=tutorial_basics)
 
 # Useful Tools
@@ -34,3 +36,8 @@ AI Notes
 
 # Challenges
 * [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
+
+
+# Meetups
+* [SF Bayarea Machine Learning](http://www.meetup.com/SF-Bayarea-Machine-Learning)
+
