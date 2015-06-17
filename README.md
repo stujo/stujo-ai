@@ -3,7 +3,7 @@ AI Notes
 
 # Publicly Available Courses
 * [Oxford - Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-* [MIT - Intro to Artificial Intelligence](https://www.udacity.com/course/viewer#!/c-cs271/)
+* [Stanford - Intro to Artificial Intelligence](https://www.udacity.com/course/viewer#!/c-cs271/)
 * [Stanford Deep Learning](http://ufldl.stanford.edu/tutorial/)
 * [Torch](http://code.madbits.com/wiki/doku.php?id=tutorial_basics)
 
