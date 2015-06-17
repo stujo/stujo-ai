@@ -45,6 +45,7 @@ AI Notes
 * [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
 
 # People
+* [Leon Bottou](http://leon.bottou.org/)
 * [Nando de Freitas](http://www.cs.ubc.ca/~nando/)
 * [Kunihiko Fukushima](http://personalpage.flsi.or.jp/fukushima/index-e.html)
 * [Alex Graves](http://www.cs.toronto.edu/~graves/)
