@@ -34,6 +34,7 @@ AI Notes
 * [LSTM Networks](http://deeplearning.net/tutorial/lstm.html)
 * [ReLU / Rectified-Linear and Leaky-ReLU](http://caffe.berkeleyvision.org/tutorial/layers.html)
 * [Dynamic Convolutional Neural Network](http://nal.co/DCNN)
+* [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)
 
 # Minor Topics
 * [Convolution](https://en.wikipedia.org/wiki/Convolution)
