@@ -37,6 +37,7 @@ AI Notes
 * [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)
 
 # Minor Topics
+* [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine_examples)
 * [Convolution](https://en.wikipedia.org/wiki/Convolution)
 * [Tensor](https://en.wikipedia.org/wiki/Tensor)
 * [Pooling Layer](https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer)
