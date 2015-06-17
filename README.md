@@ -30,6 +30,7 @@ AI Notes
 * [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 * [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM Networks](http://deeplearning.net/tutorial/lstm.html)
+* [ReLU / Rectified-Linear and Leaky-ReLU](http://caffe.berkeleyvision.org/tutorial/layers.html)
 
 # Challenges
 * [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
