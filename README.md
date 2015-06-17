@@ -16,6 +16,7 @@ AI Notes
 * [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * Linear Regression
 * Integration
+* [Calculating Derivatives](https://www.khanacademy.org/math/differential-calculus/taking-derivatives/derivative_intro/v/calculus-derivatives-1)
 * Matrix Operatiosn
 
 # Important Topics
