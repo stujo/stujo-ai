@@ -25,8 +25,6 @@ AI Notes
 # Important Topics
 * [Bayes Network](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
 * [Gaussian Distributions](https://en.wikipedia.org/wiki/Normal_distribution)
-* [Bernoulli Distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)
-* [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
 * [Bayes Rule](https://en.wikipedia.org/wiki/Bayes%27_rule)
 * [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
 * [Softmax](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/)
@@ -35,8 +33,13 @@ AI Notes
 * [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM Networks](http://deeplearning.net/tutorial/lstm.html)
 * [ReLU / Rectified-Linear and Leaky-ReLU](http://caffe.berkeleyvision.org/tutorial/layers.html)
+
+# Minor Topics
+* [Convolution](https://en.wikipedia.org/wiki/Convolution)
 * [Tensor](https://en.wikipedia.org/wiki/Tensor)
 * [Pooling Layer](https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer)
+* [Bernoulli Distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)
+* [Jacobian](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
 
 # Challenges
 * [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
