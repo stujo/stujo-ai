@@ -35,6 +35,8 @@ AI Notes
 * [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM Networks](http://deeplearning.net/tutorial/lstm.html)
 * [ReLU / Rectified-Linear and Leaky-ReLU](http://caffe.berkeleyvision.org/tutorial/layers.html)
+* [Tensor](https://en.wikipedia.org/wiki/Tensor)
+* [Pooling Layer](https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer)
 
 # Challenges
 * [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
@@ -42,6 +44,8 @@ AI Notes
 # People
 * [Alex Graves](http://www.cs.toronto.edu/~graves/)
 * [Nando de Freitas](http://www.cs.ubc.ca/~nando/)
+* [Kunihiko Fukushima](http://personalpage.flsi.or.jp/fukushima/index-e.html)
+* [Matt Zeiler](http://www.matthewzeiler.com/)
 
 # Meetups
 * [SF Bayarea Machine Learning](http://www.meetup.com/SF-Bayarea-Machine-Learning)
