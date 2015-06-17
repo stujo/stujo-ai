@@ -33,6 +33,7 @@ AI Notes
 * [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM Networks](http://deeplearning.net/tutorial/lstm.html)
 * [ReLU / Rectified-Linear and Leaky-ReLU](http://caffe.berkeleyvision.org/tutorial/layers.html)
+* [Dynamic Convolutional Neural Network](http://nal.co/DCNN)
 
 # Minor Topics
 * [Convolution](https://en.wikipedia.org/wiki/Convolution)
@@ -45,6 +46,7 @@ AI Notes
 * [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
 
 # People
+* [Nal Kalchbrenner](http://nal.co/)
 * [Leon Bottou](http://leon.bottou.org/)
 * [Nando de Freitas](http://www.cs.ubc.ca/~nando/)
 * [Kunihiko Fukushima](http://personalpage.flsi.or.jp/fukushima/index-e.html)
