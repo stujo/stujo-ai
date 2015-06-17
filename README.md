@@ -11,7 +11,7 @@ AI Notes
 
 # Useful Tools
 * [Torch](http://torch.ch/docs/getting-started.html)
-* 
+* [LSTM on Github](https://github.com/wojzaremba/lstm)
 * [nngraph](https://github.com/torch/nngraph)
 * [Ruby Gaussian Distributions](https://github.com/clbustos/distribution)
 
