@@ -52,11 +52,12 @@ AI Notes
 * [Image-Net](http://image-net.org/challenges/LSVRC/2015/index) 
 
 # People
-* [Nal Kalchbrenner](http://nal.co/)
 * [Leon Bottou](http://leon.bottou.org/)
+* [Ronan Collobert](http://ronan.collobert.com/)
 * [Nando de Freitas](http://www.cs.ubc.ca/~nando/)
 * [Kunihiko Fukushima](http://personalpage.flsi.or.jp/fukushima/index-e.html)
 * [Alex Graves](http://www.cs.toronto.edu/~graves/)
+* [Nal Kalchbrenner](http://nal.co/)
 * [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/)
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 * [Matt Zeiler](http://www.matthewzeiler.com/)
