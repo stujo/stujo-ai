@@ -20,7 +20,11 @@ AI Notes
 * Linear Regression
 * Integration
 * [Calculating Derivatives](https://www.khanacademy.org/math/differential-calculus/taking-derivatives/derivative_intro/v/calculus-derivatives-1)
-* Matrix Operatiosn
+* Matrix Operations
+  * Transpose
+* Normalization
+* Mean 
+* Standard Deviation
 
 # Important Topics
 * [Bayes Network](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
